@@ -1,0 +1,11 @@
+{
+  "language": "english",
+  "level": "beginner",
+  "name": "Syrine",
+  "place": "Local Market",
+  "background": "The market is lively with colorful stalls selling fresh fruits and vegetables. The smell of fresh produce fills the air. Vendors are calling out prices, and people are chatting and laughing. The sun is shining, making everything feel warm and cheerful.",
+  "person_to_talk_to": "vendor",
+  "goal": "Ask for the price of apples and buy some.",
+  "background_image": "background.png",
+  "avatar_image": "avatar.png"
+}

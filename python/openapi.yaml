@@ -1,0 +1,16 @@
+info:
+  description: API documentation for the Visiolingo Server.
+  title: Visiolingo Server
+  version: 0.0.1
+openapi: 3.1.0
+paths:
+  /:
+    get:
+      operationId: read_root__get
+      responses:
+        '200':
+          content:
+            application/json:
+              schema: {}
+          description: Successful Response
+      summary: Read Root
